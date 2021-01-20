@@ -21,3 +21,4 @@ struct ContentView_Previews: PreviewProvider {Button(action: /*@START_MENU_TOKEN
         ContentView()
     }
 }
+Slider(value: /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Value@*/.constant(10)/*@END_MENU_TOKEN@*/)
